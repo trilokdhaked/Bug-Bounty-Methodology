@@ -1,4 +1,4 @@
-# All about bug bounty
+# Radhe Radhe ❤️ 🙏 Jai shri Krishna ❤️ 🙏 bug Bug-Bounty-Methodology
 These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
 
 ![](https://img.shields.io/github/issues/daffainfo/AllAboutBugBounty)
