@@ -40,9 +40,9 @@ These are my bug bounty notes that I have gathered from various sources, you can
 - CVEs 2023 (SOON)
 
 ## Miscellaneous
-- [Account Takeover]((https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/Account%20Takeover.md)
-- [Broken Link Hijacking]((https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/Broken%20Link%20Hijacking.md)
-- [Business Logic Errors]((https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/Business%20Logic%20Errors.md)
+- [Account Takeover](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/Account%20Takeover.md)
+- [Broken Link Hijacking](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/Broken%20Link%20Hijacking.md)
+- [Business Logic Errors](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/Business%20Logic%20Errors.md)
 - [Default Credentials](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/Default%20Credentials.md)
 - [Email Spoofing](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/Email%20Spoofing.md)
 - [JWT Vulnerabilities](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Misc/JWT%20Vulnerabilities.md)
