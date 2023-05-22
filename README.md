@@ -31,11 +31,11 @@ These are my bug bounty notes that I have gathered from various sources, you can
 - [Bypass Captcha](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Bypass/Bypass%20Captcha.md)
 
 ## Checklist
-- [Forgot Password Functionality]((https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Checklist/Forgot%20Password.md)
+- [Forgot Password Functionality](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Checklist/Forgot%20Password.md)
 - Register Functionality SOON!
 
 ## CVEs
-- CVEs 2021 ((https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/CVEs/2021)
+- CVEs 2021 (https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/CVEs/2021)
 - CVEs 2022 (SOON)
 - CVEs 2023 (SOON)
 
