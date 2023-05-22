@@ -5,6 +5,8 @@ If you really like it then don't forget to follow me ❤️
 - [LinkedIn ](https://www.linkedin.com/in/trilokdhaked/)
 - [Twitter](https://twitter.com/TrilokDhaked2)
 - [Instagram ](https://www.instagram.com/trilokdhakedofficial/)
+- [Linktree](https://linktr.ee/Trilokdhakedofficial)
+
 
 ## List Vulnerability
 - [Arbitrary File Upload](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/main/Arbitrary%20File%20Upload.md)
