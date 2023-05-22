@@ -1,10 +1,6 @@
 # Radhe Radhe ❤️ 🙏 Jai shri Krishna ❤️ 🙏 bug Bug-Bounty-Methodology
 These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
 
-![](https://img.shields.io/github/issues/trilokdhaked/Bug-Bounty-Methodology)
-![](https://img.shields.io/github/forks/trilokdhaked/Bug-Bounty-Methodology)
-![](https://img.shields.io/github/stars/trilokdhaked/Bug-Bounty-Methodology)
-![](https://img.shields.io/github/last-commit/trilokdhaked/Bug-Bounty-Methodology)
 
 ## List Vulnerability
 - [Arbitrary File Upload](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/main/Arbitrary%20File%20Upload.md)
