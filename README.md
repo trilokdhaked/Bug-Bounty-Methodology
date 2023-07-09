@@ -28,6 +28,8 @@ If you really like it then don't forget to follow me ❤️
 - [SQL Injection (SQLi)](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/SQL%20Injection.md)
 - [Web Cache Deception](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Web%20Cache%20Deception.md)
 - [Web Cache Poisoning](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Web%20Cache%20Poisoning.md)
+- [WordPress](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/main/Wordpress.md)
+
 
 ## List Bypass
 - [Bypass 2FA](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Bypass/Bypass%202FA.md)
