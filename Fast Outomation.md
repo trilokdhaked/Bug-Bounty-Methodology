@@ -5,6 +5,7 @@ Fast Bug Bounty Outomation  Script
 ## How to Detect
 
 Please Install below tools before use this script.
+
 httpx-toolkit
 
 ```
