@@ -14,6 +14,7 @@ If you really like it then don't forget to follow me ❤️
 - [Cross Site Scripting (XSS)](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Cross%20Site%20Scripting.md)
 - [Denial of Service (DoS)](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Denial%20Of%20Service.md)
 - [Exposed Source Code](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Exposed%20Source%20Code.md)
+- [Fast Automation ](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/main/Fast%20Outomation.md)
 - [Host Header Injection](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Host%20Header%20Injection.md)
 - [Insecure Direct Object References (IDOR)](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Insecure%20Direct%20Object%20References.md)
 - [Local File Inclusion (LFI)](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Local%20File%20Inclusion.md)
