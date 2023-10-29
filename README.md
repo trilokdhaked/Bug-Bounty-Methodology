@@ -18,6 +18,7 @@ If you really like it then don't forget to follow me ❤️
 
 ## List Vulnerability
 - [Arbitrary File Upload](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/main/Arbitrary%20File%20Upload.md)
+- [BugBounty Programs Dorking](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/main/BugBounty%20Programs%20Dorking.md)
 - [CRLF Injection](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/CRLF%20Injection.md)
 - [Cross Site Request Forgery (CSRF)](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Cross%20Site%20Request%20Forgery.md)
 - [Cross Site Scripting (XSS)](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/master/Cross%20Site%20Scripting.md)
