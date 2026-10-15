@@ -9,7 +9,7 @@ Let’s learn, share knowledge, and grow together. 🚀
 
 - [LinkedIn ](https://www.linkedin.com/in/trilokdhaked/)
 - [Twitter](https://twitter.com/TrilokDhaked2)
-
+<!-- 
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +19,7 @@ Let’s learn, share knowledge, and grow together. 🚀
     <a href="https://linkedin.com/in/trilokdhaked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/trilokdhaked" height="30" width="40" /></a>
 
 </p>
-
+-->
 
 ## List Vulnerability
 - [Arbitrary File Upload](https://github.com/trilokdhaked/Bug-Bounty-Methodology/blob/main/Arbitrary%20File%20Upload.md)
