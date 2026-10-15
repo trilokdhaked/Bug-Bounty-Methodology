@@ -3,8 +3,8 @@ These are my bug bounty notes that I have gathered from various sources, you can
 If you really like it then don't forget to follow me ❤️
 - [LinkedIn ](https://www.linkedin.com/in/trilokdhaked/)
 - [Twitter](https://twitter.com/TrilokDhaked2)
-- [Instagram ](https://www.instagram.com/trilokdhakedofficial/)
-- [Linktree](https://linktr.ee/Trilokdhakedofficial)
+- [Instagram ]()
+- [Linktree]()
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -94,6 +94,5 @@ If you really like it then don't forget to follow me ❤️
   - [x] Payload XSS for each WAF (Cloudflare, Cloudfront, AWS, etc)
   - [ ] Payload SQL injection for each WAF (Cloudflare, Cloudfront)
 
-# Radhe Radhe ❤️ 🙏 Jai shri Krishna ❤️ 🙏  Donation 
 
  <a href="https://www.paypal.me/trilokdhaked" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/PayPal.svg" alt="trilokdhaked" height="30" width="40" /></a>
