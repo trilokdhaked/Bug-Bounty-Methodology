@@ -99,5 +99,6 @@ Let’s learn, share knowledge, and grow together.
   - [x] Payload XSS for each WAF (Cloudflare, Cloudfront, AWS, etc)
   - [ ] Payload SQL injection for each WAF (Cloudflare, Cloudfront)
 
-
+<!-- 
  <a href="https://www.paypal.me/trilokdhaked" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/PayPal.svg" alt="trilokdhaked" height="30" width="40" /></a>
+-->
