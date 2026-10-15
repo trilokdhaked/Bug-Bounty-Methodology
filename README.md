@@ -1,5 +1,12 @@
 #             Bug-Bounty-Methodology
-These are bug bounty notes for new  that I have gathered from various sources, you can contribute to this repository too!
+These bug bounty notes have been collected from various sources to help beginners, cybersecurity students, and aspiring security researchers learn vulnerability assessment, bug bounty methodologies, and professional report writing.
+
+I’m sharing these resources with the public cybersecurity community to make learning more accessible and help newcomers build their skills and careers in cybersecurity.
+
+Contributions are welcome! If you have useful notes, methodologies, learning resources, or improvements, feel free to contribute to this repository and help the community grow.
+
+Let’s learn, share knowledge, and grow together. 🚀
+
 - [LinkedIn ](https://www.linkedin.com/in/trilokdhaked/)
 - [Twitter](https://twitter.com/TrilokDhaked2)
 
