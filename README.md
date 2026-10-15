@@ -5,7 +5,7 @@ I’m sharing these resources with the public cybersecurity community to make le
 
 Contributions are welcome! If you have useful notes, methodologies, learning resources, or improvements, feel free to contribute to this repository and help the community grow.
 
-Let’s learn, share knowledge, and grow together. 🚀
+Let’s learn, share knowledge, and grow together. 
 
 - [LinkedIn ](https://www.linkedin.com/in/trilokdhaked/)
 - [Twitter](https://twitter.com/TrilokDhaked2)
